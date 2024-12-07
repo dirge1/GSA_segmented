@@ -2,9 +2,7 @@
 This is the source code of the paper "Comparison of global sensitivity analysis methods for a fire spread model with a segmented characteristic"
 
 Paper link: https://www.sciencedirect.com/science/article/pii/S0378475424004014
-
 ![image](https://github.com/dirge1/GSA_segmented/blob/main/GSA_result.png)
-
 If you want to get the result of Fig.1 directly by our provided results, you can run Fig1_picture_varyU_withbar.m in run_main.
 
 If you want to get the result of Fig.1 on your own computer, you can run main_fire.m in run_main. It should be noted that **python environment must be configured in Matlab**. 
