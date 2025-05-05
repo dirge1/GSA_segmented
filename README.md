@@ -1,6 +1,8 @@
 # GSA_segmented
 This is the source code of the paper "Comparison of global sensitivity analysis methods for a fire spread model with a segmented characteristic". In this work, Sobol index, mutual information, delta index and PAWN index are compared.
 
+If you find the code useful, please give a star :)
+
 ## Ref
 
 Chen, Shi-Shun, and Xiao-Yang Li. "Comparison of global sensitivity analysis methods for a fire spread model with a segmented characteristic." Mathematics and Computers in Simulation 229 (2025): 304-318.
