@@ -5,6 +5,8 @@ If you find the code useful, please give a star :)
 
 ## Ref
 
+Paper link: https://www.sciencedirect.com/science/article/pii/S0378475424004014
+
 Chen, Shi-Shun, and Xiao-Yang Li. "Comparison of global sensitivity analysis methods for a fire spread model with a segmented characteristic." Mathematics and Computers in Simulation 229 (2025): 304-318.
 
 
@@ -17,8 +19,6 @@ Chen, Shi-Shun, and Xiao-Yang Li. "Comparison of global sensitivity analysis met
 • The Sobol index yields a radical importance ranking.
 
 • Analysts should choose GSA methods carefully according to their practical purpose.
-
-Paper link: https://www.sciencedirect.com/science/article/pii/S0378475424004014
 
 ![image](https://github.com/dirge1/GSA_segmented/blob/main/GSA_result.png)
 Fig. 1. GSA results under different μU: Sobol index; Mutual information; Delta index; PAWN index.
