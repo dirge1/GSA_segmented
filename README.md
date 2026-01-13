@@ -5,7 +5,7 @@ If you find the code useful, please give a star :)
 
 ## Ref
 
-Chen, Shi-Shun, and Xiao-Yang Li. "Comparison of global sensitivity analysis methods for a fire spread model with a segmented characteristic." Mathematics and Computers in Simulation 229 (2025): 304-318.
+Chen, Shi-Shun and Xiao-Yang Li. Comparison of global sensitivity analysis methods for a fire spread model with a segmented characteristic. Mathematics and Computers in Simulation, 2025, 229: 304-318.
 
 Paper link: https://www.sciencedirect.com/science/article/pii/S0378475424004014
 
